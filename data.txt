@@ -38,5 +38,505 @@
         "premium": "FALSE",
         "price": "0",
         "tag": "anime"
+    },
+    {
+        "name": "Attack On Titan DMT",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/fv3qsGv7ubzrFo08KG8hf86t5SXJS2irHoSmgo22aKXspUw1rEhI5_vPu-DSHvFwBzA",
+        "description": "As you know, the inhabitants of a small village challenged the giant titans. If you do not know about this story, then we strongly recommend watching the anime \"Attack on Titan\". With the Attack on Titan DMT mod, you will be able to take possession not only of the weapons of the heroes of this manga, but also be able to fly on spatial maneuvering devices. If you are ready to destroy the titans in Minecraft, then install this add-on.",
+        "fileUrl": "https://www.dropbox.com/s/yg66vfishkyua1c/Attack%20on%20Titan%20DMT.mcaddon?dl=1",
+        "premium": "FALSE",
+        "price": null,
+        "tag": "anime"
+    },
+    {
+        "name": "Avatar",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/tqjsQAnU3Ca2qgDH0WuDfIplkA5jGPH4kB_AFqRw7bulVDfl7_rglTmez-5JMWObjEU",
+        "description": "Avatar: The Last Airbender is one of the most popular and interesting cartoons. The creation is widely appreciated not only by children, but also by most adults, because it contains fascinating jokes, a well-thought-out plot and a little bit of magic. It is this magic that the author of the Avatar mod decided to add to Minecraft. The assembly will work even in multiplayer and players will be able to become magicians.<br> After installing the assembly, write the !scroll command to select your abilities.",
+        "fileUrl": "https://www.dropbox.com/s/cx5p3z7ca9cgmjg/avatar-addon.mcaddon?dl=1",
+        "premium": "FALSE",
+        "price": null,
+        "tag": "anime"
+    },
+    {
+        "name": "Bedrock Pokemon Arena",
+        "extension": ".mcworld",
+        "imgUrl": "https://lh3.googleusercontent.com/WzUyrwYVgY0I8z1R7u-6JS6QpkFQsDZM4bU1PwKd13Si2ZzZUUbJ_kTh4BVJbb54_Do",
+        "description": "Many servers practice various competitions between players. Usually this applies to battles and battles. Especially for such cases, we offer a beautiful, very spacious arena or stadium in the style of Pokemon battles. The building is tall and wide. There are various pixel art pokeballs. Inside there are stands, a zone for observing the players. The battle zone itself is not that big, but spacious enough. Everything is very neat and beautiful.",
+        "fileUrl": "https://www.dropbox.com/s/xxrgx9kusr1jfs4/pokemon-arena.mcworld?dl=1",
+        "premium": "FALSE",
+        "price": null,
+        "tag": "pokemon"
+    },
+    {
+        "name": "Berserk",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/AC2s66fdPakTDE9vMkeyPDbaUvhpAvZ8NivHwP1WjMhvWGS9mBgL5L7QhLfdqaliGqs",
+        "description": "Have you heard of a manga like Berserk? This is the darkest fantasy you can find. A creepy and sometimes very cruel story that everyone should know about. Now the characters from this manga/anime will appear in Minecraft. You can befriend Guts or Skull Knight, get Berserk armor and slay enemies with giant Dragonslayer sword with this mod.",
+        "fileUrl": "https://www.dropbox.com/s/ahmz11w57n03uf4/Berserk.mcaddon?dl=1",
+        "premium": "FALSE",
+        "price": null,
+        "tag": "anime"
+    },
+    {
+        "name": "Beyblade Burst QuadStrike",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/hQKWEqp1PCPhd5X4bqT8l7IH6rDUKpYKt2WIguIfx3ihYH1cWSdZe-KPMd5hNduWeTuz",
+        "description": "Beyblade Burst QuadStrike Addon contains characters form Beyblade Anime and Beys. Beyblades are made as equipments. Bladers are entities like Villagers. Enjoy Minecraft with some Bey-Bladers <br><br> CHARACTERS<br><br>1. Valt Aoi<br>2. Bell Disora<br>3. Quadra<br>4. Pax Forsythe<br>5. Ranzo Kiyama<br>6. Shu Kurenai<br>7. Xander Shakadera<br>8. Ken Midori<br>9. Dante Koryu<br>10. Aiger Akabane<br>11. Hikaru Asahi<br>12. Hyuga Asahi<br>13. Kit Lopez <br> <br> BEYBLADES<br><br>1. Ultimate Valkyrie<br>2. Divine Belfyre<br>3. Distined Belfyre<br>4. Ultimate Evo Valtryek<br>5. Lightning Pandora<br>6. Tidal Pandora<br>7. Twister Pandora<br>8. Flame Pandora<br>9. Pandemonium<br>10. Cyclone Roktovor<br>11. Bolt Spryzen<br>12. Xypoid Xcalius<br>13. Chain Kerbeus<br>14. Gambit Dragon<br>15. Zeal Achilles<br>16. Komet Helios<br>17. Stellar Hyperion<br>18. Whirl Knight<br><br>",
+        "fileUrl": "https://www.dropbox.com/scl/fi/udwt8fhlc4flrh2d1wz94/beyblade-burst-quadstrike.mcaddon?rlkey=jlrhzwir5gvi9mmbhi356nkeh&dl=1",
+        "premium": "TRUE",
+        "price": null,
+        "tag": "anime"
+    },
+    {
+        "name": "Boku No Hero",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/FXZqMnW-rf-yzMHzVu2H_T98sW1sYtdsL25zbmRtBRX9tW6ghAgI4I5HmMarxwDKCQ",
+        "description": "The Boku no Hero mod is dedicated to the popular anime My Hero Academia. The plot tells about a guy who was born without superpowers in a world where everyone has different characteristics.<br>  The add-on introduces a variety of abilities that are presented in the anime. You can become a real superhero in Minecraft PE.",
+        "fileUrl": "https://www.dropbox.com/s/cmcodg4s0lnpvfg/Boku%20No%20Hero.mcaddon?dl=1",
+        "premium": "TRUE",
+        "price": null,
+        "tag": "anime"
+    },
+    {
+        "name": "Boruto x Naruto",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/nQ0fo4mNnNi9SPLFr3D97FNcgpET2CO5yGcSzojmYq5Crqq02KVAiaO3643QGRYpjawf",
+        "description": "The Boruto x Naruto mod introduces several features from the Boruto and Naruto universe. For example, you can switch to different modes and use unique techniques. Most of them only appeared in the Boruto series. If you only watched Naruto, then a lot of things may be new to you (as well as to us). The add-on contains more than 40 new elements for Minecraft PE.",
+        "fileUrl": "https://www.dropbox.com/s/lh6pdthry9fzk2e/Boruto%20x%20Naruto.mcaddon?dl=1",
+        "premium": "FALSE",
+        "price": null,
+        "tag": "anime"
+    },
+    {
+        "name": "Catch your Bulbasaur",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/9RQ55YyGiegdxYC0SHLWkTMcVUXf_d-Mlg7W8vPDFbecLpEY0VpxQ9lvK0h3qgWerw",
+        "description": "Mod on the theme Bulbasaur. You are going deep into the jungle, exploring ancient ruins, when suddenly!... A wild Bulbasaur appears! Tame him with seeds. Once at your side, your favorite pokemon will protect you in your adventures in survival mode. Bulbasaur! Attack Vine whip! This pack is a Bedrock exclusive content. It contains :<br><br>- A Bulbasaur entity with :<br><br>-The possibility to meet him in the jungles biomes<br>-The possibility to tame him with seeds.<br>-A plant attack that will defend you against monsters<br>-A CD with the pokemon music<br>-5 sounds bulbasaur integrate on it<br> <br> <b> To install this data pack, you must have the Minecraft Bedrock version.</b><br><br>",
+        "fileUrl": "https://www.dropbox.com/scl/fi/kt9cbhy17ua06jk5y6oq5/Catch-your-Bulbasaur.mcaddon?rlkey=6azy8d888wp62ye1252p1s1iu&dl=1",
+        "premium": "FALSE",
+        "price": null,
+        "tag": "pokemon"
+    },
+    {
+        "name": "Chainsaw Man Awakening",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/KfqHDblr0-g8Z8AMGCSVJTQwRA1ufe6JxxS89mVb25X5NrTkTN0TuPsgHbfQrYVqJGk",
+        "description": "The Chainsaw Man: Rude Awakening mod invites you to learn a little more about the popular Chainsaw Man anime. The add-on introduces a new character to Minecraft Bedrock. A chainsaw will appear in the game, which can be used in many ways. First you need to walk around the world and look for Pochita. To pick up this chainsaw, you need to hit it. The weapon deals damage to everyone in range and breaks blocks.",
+        "fileUrl": "https://www.dropbox.com/s/7e5yhmo1l9zfcpf/Chainsaw%20Man%20Rude%20Awakening.mcaddon?dl=1",
+        "premium": "FALSE",
+        "price": null,
+        "tag": "anime"
+    },
+    {
+        "name": "Chainsaw Man 2",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/EPk0OWanz5W0wlGEKB2ZgWOZc1QuNDOMYn02jxIBL95vJ83-EwLGGDJdxFsMuYmQIA",
+        "description": "The Chainsaw Man 2 mod adds Honor and the ability to transform into Chainsaw Man in Minecraft. All these characters are taken from the anime of the same name, which has now gained great popularity. Pochita can become not only a cute and useful pet, but also a tool for efficient wood extraction. To tame a mob, you need to sit down and interact. After that, you will lose some of your health. You can only tame one Honor.",
+        "fileUrl": "https://www.dropbox.com/s/v8opn02n1vy07j7/chainsaw-man-2.mcaddon?dl=1",
+        "premium": "TRUE",
+        "price": null,
+        "tag": "anime"
+    },
+    {
+        "name": "Chainsaw Man Survival",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/7ZLs-FbTOWXtENXYEA4Rnw8l8HTwxj1tQKDsd_f9cWOb1h-BUa5WsOJ0_iT8WJUL_S4",
+        "description": "The Chainsaw Man Survival mod is inspired by the Chainsaw Man anime and manga of the same name. With this add-on you will be able to use the demonic powers of Chainsaw Man in Minecraft PE. All this works not only in survival mode, but also in multiplayer.",
+        "fileUrl": "https://www.dropbox.com/s/pnr2pbqd5xiunal/Chainsaw%20Man%20Survival.mcaddon?dl=1",
+        "premium": "TRUE",
+        "price": null,
+        "tag": "anime"
+    },
+    {
+        "name": "Catch your Charmander",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/6P7bHvlPS3THzycXg0DOFwxNtrmYLLZVP7SWwNKtcqsTsqKghJkYZtLyOpvIV-HPx4M",
+        "description": "Mod on the theme Charmander. You are walking in the arid steppes of the desert and... A wild Charmander appears! You want to tame it to see if it will follow you during your adventure. With its tame entity that will defend you during the fights and will be available on the mesa biomes, your survival will be on fire! This pack is a Bedrock exclusive content. It contains :<br><br>- A Charmander entity with :<br><br>-The possibility to meet him in the mesa biomes<br>-The possibility to tame him with mushrooms.<br>-A fire attack that will defend you against monsters<br>-A CD with the pokemon music<br>-6 sounds Charmander integrate on it<br> <br> <b> To install this data pack, you must have the Minecraft Bedrock version.</b><br><br>",
+        "fileUrl": "https://www.dropbox.com/scl/fi/rhzm307wxbkd8whrik247/Catch-your-Charmander.mcaddon?rlkey=lrdx0ck3u0mmqiy3c8uacw7a6&dl=1",
+        "premium": "FALSE",
+        "price": null,
+        "tag": "pokemon"
+    },
+    {
+        "name": "Craft Piece",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/foJrGMtmB0wXSX5Gk8tN5co4hal6r_2HtTiozYfDgek5lWh6DV5_i1Ybpq8oBrVUs9g",
+        "description": "The Craft Piece mod is completely dedicated to the popular anime Big Jackpot or One Piece. Legendary characters got a blocky form in Minecraft, and you can turn into them using Magic Fruits. Join Monkey D. Luffy, Roronoa Zoro, Nami and the rest of the Straw Hats on their epic adventure to become the Pirate King.<br> <br> Devil Fruits will give you unlimited power and strength: you will be able to deal with enemies with the help of unique abilities. For example, become a rubber warrior or use destructive flames. You will have to fight bosses and meet your best friends: for this you just need to install an add-on.<br> <br>",
+        "fileUrl": "https://www.dropbox.com/scl/fi/k0ulnmp63asl2fixwwyjf/Craft-Piece.mcaddon?rlkey=gvrauk51qzamd2kgrp43zwb34&dl=1",
+        "premium": "TRUE",
+        "price": null,
+        "tag": "anime"
+    },
+    {
+        "name": "Cyberpunk Edgerunners",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/MOSOShKISXp896DZbfowpbmxntHIsDoCzLjHz9dergEx5JNEX_y7qPhWjkwJo2SphXA",
+        "description": "The Cyberpunk: Edgerunners mod is dedicated to the popular series that captivated viewers in 2022 - Cyberpunk - Edge Runners. The add-on contains items worn by the main character of the series, and now they will be available in Minecraft.",
+        "fileUrl": "https://www.dropbox.com/s/1oe0003sm802cp2/cyberounk.mcaddon?dl=1",
+        "premium": "TRUE",
+        "price": null,
+        "tag": "anime"
+    },
+    {
+        "name": "Death Note",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/IH-eAo0hR__0GnCaSu6tXCqi3iuYuUGsJBu661iPnlLnSB57miM9VIKBTJsVp1GX3A",
+        "description": "Death Note is one of the best and most popular anime. Not the longest, but exciting plot made this anime a real masterpiece.<br> Therefore, it would be nice to transfer all this to the Minecraft world using the Death Note mod. Characters from this anime and manga will appear in the game. All characters are tamed with roses, and some can even be traded with.",
+        "fileUrl": "https://www.dropbox.com/s/pvjvq1956nbxgd7/Death%20Note.mcaddon?dl=1",
+        "premium": "TRUE",
+        "price": null,
+        "tag": "anime"
+    },
+    {
+        "name": "Demon Slayer",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/T2RlaGp0nPFln24CBCuY1qerlc5vlMZPVjLIiN4rERie0_3gogaNrSe1wUSKaRC-LeWv",
+        "description": "The Demon Slayer Addon - Akuma no Isan mod is based on the popular Demon Slayer anime and manga. The player will receive the same abilities as the heroes of this universe. You will have access to the ability tree, quests, races, clans, breath styles, blood demon arts, several types of swords and much more in Minecraft.",
+        "fileUrl": "https://www.dropbox.com/s/ewvxx8u46f5iri8/Demon%20Slayer.mcaddon?dl=1",
+        "premium": "FALSE",
+        "price": null,
+        "tag": "anime"
+    },
+    {
+        "name": "JOJOs Adventure",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/1DKHncIVtaX9kh0w3Ih7PwzX4o-7Y07dq2L2LI4Mne2jFOEmvyfquwiYJh4hg_l8mWc",
+        "description": "The anime JoJo's Bizarre Adventure has given the world a lot of interesting characters that are used in various add-ons, especially in Minecraft. The JOJO's Bizarre Adventure: King Crimson mod introduces one of the characters from this anime, King Crimson. With this stand, you can use 4 unique abilities.",
+        "fileUrl": "https://www.dropbox.com/s/csg19029087wzb7/JOJO%20Adventure%20King%20Crimson.mcaddon?dl=1",
+        "premium": "FALSE",
+        "price": null,
+        "tag": "anime"
+    },
+    {
+        "name": "JOJOs Adventure 2",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/o2PscAjTx9thTSUlK5Xe2jIw4NIX7lOS1A2nLfvP-aJLRJ6lXDDX4tCNd4kJoo7qWA",
+        "description": "JoJo's Bizarre Adventure Stand Disc mod is dedicated to the manga and anime of the same name. Many characters and Stands from this franchise will appear in our favorite game. You can summon Stands with discs to fight by your side and deal with any enemies. Each has its own characteristics.",
+        "fileUrl": "https://www.dropbox.com/s/mci8mt6476iaixn/JOJOs%20Adventure%20Stand%20Disc.mcaddon?dl=1",
+        "premium": "TRUE",
+        "price": null,
+        "tag": "anime"
+    },
+    {
+        "name": "Kuma's Anime Pets",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/5z9k2nMQ0JoQ7Wufqv40Bj4p9hJkuIOyZlYyRenkXMs8BPtOcXkjBC1tpwtgMf7AetI",
+        "description": "Each of us has watched anime at least once. Every time you watch an anime, there are pet characters that immediately capture anyone's heart. Naturally, every person would like to have such a comrade, and even a tamed one. But this is only possible in the endless expanses of Minecraft with the Kuma's Anime Pets mod. The game will feature new pet characters taken from different anime.<br><br>",
+        "fileUrl": "https://www.dropbox.com/scl/fi/eiy5ehw8xj3qpkpr88nqf/Kuma-s-Anime-Pets.mcaddon?rlkey=mij6izy3atashcfet5o0vx4ya&dl=1",
+        "premium": "TRUE",
+        "price": null,
+        "tag": "anime"
+    },
+    {
+        "name": "Mobile Suit Gundam",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/vBtoLnJgG7Tmdx-X_AnX_ubVwTGx-XK-rtOflF22N6mdip5JQD_JS5CReSzuuPuphrRX",
+        "description": "The MobileSuit Gundam mod is based on the popular anime Mobile Suit Gundam. When this anime was released, it's quite possible that even your parents weren't even born yet. Nevertheless, the author decided to recreate huge robots from this universe and introduce Minecraft Bedrock into the open spaces. You can sit inside the robots and control the giants.",
+        "fileUrl": "https://www.dropbox.com/s/mmtgk0q5roynuhf/Mobile%20suit%20gundam.mcaddon?dl=1",
+        "premium": "FALSE",
+        "price": null,
+        "tag": "anime"
+    },
+    {
+        "name": "My Hero Academia",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/WpM-B1JN3ulLOuY7q6vMDlqjWDxN6I_SoZAI3S0i7FIzsBNQjmZ3Q6aFra3fyCEtVQ",
+        "description": "The My Hero Academia mod is dedicated to the manga and anime of the same name \"My Hero Academia\". The add-on introduces abilities, armor and weapons from this universe into the world of Minecraft. In addition, there will be enemies that you will have to deal with in order to improve your capabilities.",
+        "fileUrl": "https://www.dropbox.com/scl/fi/jsd10ah3vheps8rotcmfo/My-Hero-Academia.mcaddon?rlkey=391nlgsb7cmc1me0tf3xmj85a&dl=1",
+        "premium": "FALSE",
+        "price": null,
+        "tag": "anime"
+    },
+    {
+        "name": "Naruto Bedrock",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/F5Wk5yPV5eNGOZep4-eW4WH1ZXPTophrrRlimi7JNJmIVycBv8qq63KqnDi4sKuyk1mw",
+        "description": "We don't know about Naruto anime, where the character wants to become Hokage and defeat all enemies. Now you can also use various abilities in Minecraft with the Naruto Bedrock mod. You'll get the Sharingan, Byakugan, and you can even summon Susaano or transform into Shukaku.",
+        "fileUrl": "https://www.dropbox.com/s/txmzyevomynfcyb/Naruto%20Bedrock.mcaddon?dl=1",
+        "premium": "FALSE",
+        "price": null,
+        "tag": "anime"
+    },
+    {
+        "name": "Naruto Jedi",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/vysS0Km3a8TtSVo_Q86hNxBtqzOtaVZt35S-6GdBC6E0AhQVHhSqwX3iZNb6nBpZl1Q",
+        "description": "The Naruto Jedi mod adds creatures called Bijuu and their human forms of jinchuuriki to the MCPE! The main feature of the mod is textures and models in HD quality.  Naruto Jedi will add 9 tailed beasts, 36 new chakras and more! Become a jinchūriki and defeat all Bijuus!",
+        "fileUrl": "https://www.dropbox.com/s/f7uvcccgw6vv800/Naruto%20Jedi%20v1.18.mcaddon?dl=1",
+        "premium": "TRUE",
+        "price": null,
+        "tag": "anime"
+    },
+    {
+        "name": "Naruto Run",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/_zTfEyMOvDJD-jfZsE_weyw8h7Mw3hukpUeMuLZC1tkFyutDxittNlSdg1e0NAhwrrg",
+        "description": "After installing the mod, your hero's running animation will change to the running animation of Naruto (the main character from the manga of the same name). Moreover, not only the player's posture will change, but also the speed, it will greatly increase compared to normal running.",
+        "fileUrl": "https://www.dropbox.com/s/mia7xs2xw4mhz5y/Naruto%20Run.mcaddon?dl=1",
+        "premium": "FALSE",
+        "price": null,
+        "tag": "anime"
+    },
+    {
+        "name": "Naruto Craft",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/wJEiJr5HT1N2bYAXKzwBEG36F_ExgmA4vZHyoDy7KG2VWigU_ozwWJSLDWYXge7Jn5E",
+        "description": "The Naruto Craft mod, as the name implies, contains many new things from the popular Naruto anime and manga. If you have always wanted to become a shinobi and master the most powerful techniques, now it is available in Minecraft. More than 50 modes, a bunch of Jitsu, clan selection and various tasks. Become the coolest shinobi. Over 50 modes: Susanoo, chakra modes, jinchuriki (tailed) modes, sharingan and more.",
+        "fileUrl": "https://www.dropbox.com/s/5xadmjhdgirrz55/Naruto%20Craft.mcaddon?dl=1",
+        "premium": "TRUE",
+        "price": null,
+        "tag": "anime"
+    },
+    {
+        "name": "Naruto Strike",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/P7ENKR2_nurl7PTWu-_0QhIbaKI3syNZnju4t-JISLDTr511G-lYYkQSvCJz3P405Jni",
+        "description": "The Naruto Craft mod, as the name implies, contains many new things from the popular Naruto anime and manga. If you have always wanted to become a shinobi and master the most powerful techniques, now it is available in Minecraft. More than 50 modes, a bunch of Jitsu, clan selection and various tasks. Become the coolest shinobi. More than 50 modes: Susanoo, chakra modes, jinchuriki (tailed) modes, sharingan and more.",
+        "fileUrl": "https://www.dropbox.com/s/pzzodosnqcg9352/Do%20Naruto%20Strike.mcaddon?dl=1",
+        "premium": "FALSE",
+        "price": null,
+        "tag": "anime"
+    },
+    {
+        "name": "Naruto Ultimate",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/5QopTC12UrMjGiYDwAukk6D4WEc8xYgCYgMRyny59YEaPfOJBLzGJFI3UZumkpmZQw",
+        "description": "Every fan of the Naruto universe will rejoice as the NARUTO ULTIMATE V 1.5 mod is released, bringing the world of Naruto to the world of Minecraft PE. The add-on includes new characters and items from the anime of the same name. The heroes will behave in the same way as the player or the villager: they will live in the village and sleep at night.  When installing the add-on, the normal game world will not change - the mod does not replace mobs or items, but adds new ones.  New characters spawn randomly in the game. Players will be able to tame anime characters, after which they will fight alongside the player on the battlefields or simply become comrades on adventures.",
+        "fileUrl": "https://www.dropbox.com/s/tp8najykbd0cd0o/Naruto_Ultimate.mcaddon?dl=1",
+        "premium": "FALSE",
+        "price": null,
+        "tag": "anime"
+    },
+    {
+        "name": "Catch your Pikachu",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/6hae0tVq6cNSI7ItyE0oiqYvxGg0T27vVtISxDVaEdVHPW2o9_8XzYSLb1TwHZlbB5w",
+        "description": "Mod on the theme Pikachu. You are walking in the tall grass of your survival and... A wild pikachu appears! You might want to tame it to see if it follows you during your adventure. With its tame entity that will defend you during your survival and available in the biomes flower forest, give a juice to your survival!<br><br> This pack is a Bedrock exclusive content. It contains :<br><br>- A pikachu entity with :<br><br>-The possibility to meet him in the flower forest biome<br>-The possibility to tame him with flowers<br>-A lightning attack that will defend you against monsters<br>-A CD with the pokemon music<br>-8 sounds Pikachu integrate on it<br> <br> <b> To install this data pack, you must have the Minecraft Bedrock version.</b><br><br>",
+        "fileUrl": "https://www.dropbox.com/scl/fi/ncxmz5t1869o9fnl4yzd0/Catch-your-Pikachu.mcaddon?rlkey=obtlt0y5iollicgjy596xywsr&dl=1",
+        "premium": "FALSE",
+        "price": null,
+        "tag": "pokemon"
+    },
+    {
+        "name": "Pixelmon Bedrock",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/QkEJAy-KQEbmP3tebcNIgc5n5xxISjtXGtWgu0TgYFfXPy7iyzzvfedU4LJ9iSBZWc8",
+        "description": "Another Pokemon mod is Pixelmon Bedrock for Minecraft. As a rule, add-ons with Pokemon have so many functions that it is very difficult to understand them. This assembly is simple and convenient. You just need to use a few items to control the Pokémon: spawn them or catch them back in the balls. From the very beginning, you will have Pokémon. First you need to select a Pokemon using an item in your inventory. There are three species to choose from: Bulbasaur, Charmander and Squirtle.",
+        "fileUrl": "https://www.dropbox.com/s/z68y9qdmocnabex/Pixelmon%20Bedrock.mcaddon?dl=1",
+        "premium": "TRUE",
+        "price": null,
+        "tag": "pokemon"
+    },
+    {
+        "name": "Pokeballs",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/Y5hPp9TI7rtSXn3_4WxJqRflTZ2Lum9DetHIKT0XwjDA1praCuDTuhib8KKpAdBw6i4",
+        "description": "Do you want to easily move your pets or any other mobs in Minecraft PE? The Pokéballs mod adds Pokéballs, items from the popular Pokémon cartoon. Mobs can be placed in them to release at the desired location.",
+        "fileUrl": "https://www.dropbox.com/s/d1jwdrsuuxhhloe/pokeballs.mcaddon?dl=1",
+        "premium": "FALSE",
+        "price": null,
+        "tag": "pokemon"
+    },
+    {
+        "name": "PokeCraft",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/GU3l3qdnbsP9FY8tD4xsH0JVWXidc6ASwJkiXksVgAhyqPMMsY5fTokWSgEDfjzp-rs",
+        "description": "PokeCraft - mod will add Pokemon to the game, which will be randomly generated around the world of Minecraft PE. Each Pokemon is endowed with a unique skill and individual behavior.  The mod will add to Minecraft PE the most popular characters from the series that can be trained and tamed.",
+        "fileUrl": "https://www.dropbox.com/s/vuzlwuug6v25y8p/PokeCraft.mcaddon?dl=1",
+        "premium": "FALSE",
+        "price": null,
+        "tag": "pokemon"
+    },
+    {
+        "name": "PokeCube 1.16+",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/wxJUq-MN94S489T5Wj6rKQzWog45Gcv41j61Fd3oLDZZRlzteSRX3TsTo22mOXSba3I",
+        "description": "Welcome to the world of Pokémon in Minecraft Bedrock Edition, where you will have to explore your world in search of Pokémon and catch them! About Pokémon At the beginning, before you explore your world in Minecraft PE, you need to choose a starting Pokémon.   Once selected, your screen will display the name of your Pokémon. Also, each name will have its own type of flowers.",
+        "fileUrl": "https://www.dropbox.com/s/97fo1liuhsqhofq/PokeCube.mcaddon?dl=1",
+        "premium": "FALSE",
+        "price": null,
+        "tag": "pokemon"
+    },
+    {
+        "name": "PokeCraft Kanto",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/NORnKC3Vp9mYg_nY7DM-zpe3IopgStzXls6510SM3DX7NsGAfVYm99mB16nn-3kE8Xw",
+        "description": "Pokemon will be popular at all times - this is proved by a very fresh PokeCraft Kanto mod for Minecraft. Everything is as usual: Pokemon, a Pokemon store, Pokeballs and other things related to the cartoon universe will appear in the game. You can catch Pokemon, train them and evolve. Immediately after entering the game, you need to crouch to get the item to spawn Professor Oak. The NPC will provide you with one of three basic Pokémon. With an extremely rare chance, a shiny Pokemon will come across.",
+        "fileUrl": "https://www.dropbox.com/s/yd02sc7x3bvy3k1/PokeCraft%20Kanto.mcaddon?dl=1",
+        "premium": "FALSE",
+        "price": null,
+        "tag": "pokemon"
+    },
+    {
+        "name": "Pokemod - Redstone Map",
+        "extension": ".mcworld",
+        "imgUrl": "https://lh3.googleusercontent.com/sQQawE7btUKS42tb5t_9ysTvFD4JsJvXJ39VhDh4LZjtMI_eCIY2bU29FCrGlADXtQ",
+        "description": "Who will be the best Pokemon trainer in Minecraft? It's time to find out: Pokémod - The Full Redstone Map has all the conditions for this. Compete with your friends and find out who will be the best coach. The creation features a large scoreboard, on which a mini-game is available, where Pokemon will fight among themselves.<br> <br> Information:<br>• Each pokemon has advantages and disadvantages<br>• Depending on this, the special attack deals different damage, and the normal attack always deals 3 damage, but has a 25% miss chance.<br>• Point system available<br> <br>",
+        "fileUrl": "https://www.dropbox.com/s/l6rjad2o6v9t8m6/pokmod__the_full_redstone_map.mcworld?dl=1",
+        "premium": "TRUE",
+        "price": null,
+        "tag": "pokemon"
+    },
+    {
+        "name": "Pokemod - The Legendary Boss",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/QhomfGZZr6no8HoP0zZhy6DaVaXX3xZWglfuGZQL62qFvZidR5sUjXghT2D0rTvZWw",
+        "description": "Mod on the Pokemon theme. In a village far from your survival, a villager told you about a new item you can make. After gathering the necessary components, you find yourself with a Pokeball in your hands. A real Pokeball! You absolutely have to go and test it right away! You've heard that each Pokemon lives in its own biome. But there are also legendary Pokemons that you need to summon to battle. Your trainer's soul is on fire and you'll be able to throw Pokeballs at any Pokémon you find! Catch them all!<br> Once your Pokemon is caught, it will defend you during your game and can never disappear. If it dies, call it back into its Pokeball and summon it back whenever you want! If you invite a friend on your survival and he creates a team, you will be able to fight him in crazy battles! Finally, a new Pokedex-inspired user interface has been installed for your immersion.<br><br> This pack is a Bedrock exclusive content. It contains:<br>-5 Pokemon types (appear in their respective biomes)<br>-1 survival mode Pokéball<br>-UI inspired by the Pokédex<br>-Custom sounds<br>-Custom particles<br>-Custom animations for each Pokemon<br>-3 new legendary bosses to summon by collecting feathers in the various biomes<br>-8 exclusive skins<br> <br> <b> To install this data pack, you must have the Minecraft Bedrock version.</b><br><br>",
+        "fileUrl": "https://www.dropbox.com/scl/fi/j8ejd5apl1na13q2o60ay/Pokemod-The-Legendary-Boss.mcaddon?rlkey=7b4s9n2pc4hkjpr2bdgl3b4vm&dl=1",
+        "premium": "TRUE",
+        "price": null,
+        "tag": "pokemon"
+    },
+    {
+        "name": "Pokemon Addon",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/3adSYHpzvWUs5eyms6-ZyrJzBCUHqHp4ZCeE4vR4JgMymaivinXypAtVWNL8sIl_RtkS",
+        "description": "This Addon brings five brand new Pokémon into your Minecraft World. You can tame them and fight together against your enemies. Each has its own melee attack and ranged attack, they choose automatically which attack they use. This Pack is completely survival compatible because you can craft every item and the pokeball in survival mode.",
+        "fileUrl": "https://www.dropbox.com/s/gdtdjmmeekoyxl1/Pokemon%20Addon.mcaddon?dl=1",
+        "premium": "TRUE",
+        "price": null,
+        "tag": "pokemon"
+    },
+    {
+        "name": "PokePixels",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/huifEKIPlxX2mdT6Xd0XPuKbe90eCArrIhCTm6kKLCs_Bb4-lX7btgnwDyoNgzP9wA",
+        "description": "The PokePixels mod provides access to the Pokemon universe in MCPE. The add-on introduces the Pokémon themselves, pokeballs and other things that are connected with the world of the popular anime. You can use pets to fight.",
+        "fileUrl": "https://www.dropbox.com/s/x8upgzbilmgvrsa/PokePixels.mcaddon?dl=1",
+        "premium": "FALSE",
+        "price": null,
+        "tag": "pokemon"
+    },
+    {
+        "name": "Poketmon 1.16+",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/XxaR-iKaVwyckJ3j9VjF8OOXrSG4fvll6ySLlgfGwn355fqUAJ5_ANHYNMraI3HYpw",
+        "description": "Dedicated to all Pokemon lovers! The PocketMon mod adds 39 types of Pokemon to MCPE. In addition, there will be many other items and structures related to the beloved world of the cartoon.  The addition will allow not only to get a friendly Pokemon, but also to improve it. Mobs will evolve and become many times stronger. In addition, you can fight with other Pokémon.",
+        "fileUrl": "https://www.dropbox.com/s/elq34pkacs501n3/Pocketmon.mcaddon?dl=1",
+        "premium": "FALSE",
+        "price": null,
+        "tag": "pokemon"
+    },
+    {
+        "name": "Rei Chikita Addon",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/WMarpqY6aLBLKZpkPukD8dyOKMX75j441_2PE2oYFLK5bDPZFfsBVVhNFOwdH6oFCl0",
+        "description": "As far as we understand, Rei Chikita is a toy version of the popular character Rei Ayanami from the Evangelion anime and manga. Now the hero will appear in our game with the Rei Chikita Addon mod. The mob can be tamed with Chocolate Milk and taken with you on your travels.<br> <br>",
+        "fileUrl": "https://www.dropbox.com/scl/fi/hk9n77nt11v323iwdxa8l/Rei-Chikita-Addon.mcaddon?rlkey=uslqrntla0s433t2oujg9cex1&dl=1",
+        "premium": "FALSE",
+        "price": null,
+        "tag": "pokemon"
+    },
+    {
+        "name": "Ryp Anime Craft",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/_rQThqychkiVm4t5TyVGRJoCNoFySEbjKPHH6wzsOd2-H895m9aSefDlKgeJXIg_3o8",
+        "description": "Play as popular anime characters in Minecraft: just install the Ryp Anime Craft mod. Heroes of Naruto, Dragonball, Magic Battle, Demon Blade and even My Hero Academy will appear in the game. In addition, new weapons, armor sets and unique abilities will be available.<br> <br>",
+        "fileUrl": "https://www.dropbox.com/scl/fi/zj59sqkl7mxc073nmu9b7/Ryp-Anime-Craft.mcaddon?rlkey=aenklfk0pe53h010461a15dka&dl=1",
+        "premium": "TRUE",
+        "price": null,
+        "tag": "pokemon"
+    },
+    {
+        "name": "SERP Pokedrock",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/6uQxa4EsZuxIRmWjWZpJpYuHDXqJQ7sPmYq_C4ob3g6axj0uq13_90QHea_NQl4g48wz",
+        "description": "It's hard to believe, but the Pokemon universe remains popular even 20 years after the release. The creators have developed a unique franchise that has captured the minds of people. The SERP Pokémon mod will add more Pokémon and new functionality to the Minecraft world. Moreover, not only mobs will appear, but also evolution, a combat system, breeding creatures and riding mobs. The coolest part is that the add-on does not even require experimental mode to work.",
+        "fileUrl": "https://www.dropbox.com/s/z3tf8v4i6kbhx5o/Serp%20Pokemon.mcaddon?dl=1",
+        "premium": "FALSE",
+        "price": null,
+        "tag": "pokemon"
+    },
+    {
+        "name": "SERP Pokedrock 2",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/CutfesA0N1xFqrw584AvcrY2qxHIMnnJ1f4ng_BPk4OiQQFBrS2XqGQV8U3rAnvXjdc",
+        "description": "The second part of the Pokémon add-on series has appeared - SERP Pokédrock 2. The first part can be installed here. The author constantly updated the first part, which means he will be actively working on the second. If you are interested in the Pokemon universe, then this is the best mod that you can download for Minecraft.",
+        "fileUrl": "https://www.dropbox.com/s/sdu3bc1echx3yox/Serp%20Pokemon%202.mcaddon?dl=1",
+        "premium": "FALSE",
+        "price": null,
+        "tag": "pokemon"
+    },
+    {
+        "name": "SERP Pokedrock 3",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/3e1fMqBB8JPNa7KQjjwCKDUiyoqHs15-sWlIy4DvjVqKQFhif7E2QzEDsnV9slClTIE",
+        "description": "The third part of the popular Pokémon mod is SERP Pokédrock 3. Along with this add-on, new types of animals will appear in Minecraft Pocket Edition that you can use to fight enemies. At the same time, the add-on can be combined with the first and second parts of add-ons to increase the number of different mobs.",
+        "fileUrl": "https://www.dropbox.com/s/f8piq6ta3duvnnu/Serp%20Pokemon%203.mcaddon?dl=1",
+        "premium": "TRUE",
+        "price": null,
+        "tag": "pokemon"
+    },
+    {
+        "name": "Shingeki Odm Gear",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/MdwlK-Sb3_BWr0uRnbvKgpVxtfjNvyqHC0482LD4PkaVqgCllPwY_8tDyeRxX1rkdxo",
+        "description": "Many have heard about the anime and manga Attack on Titan. The already legendary franchise still continues to win the hearts of fans, although only three seasons have been released, and a fourth is coming out. The Shingeki No Kyojin Odm Gear mod will contain many new features and things that are related to the manga mentioned above. So far, the volume of innovations is not large, but in the future the author will update the add-on and bring cool things to Minecraft.",
+        "fileUrl": "https://www.dropbox.com/s/2icfh44ncidvpb7/Shingeki%20No%20Kyojin%20Odm%20Gear.mcaddon?dl=1",
+        "premium": "FALSE",
+        "price": null,
+        "tag": "anime"
+    },
+    {
+        "name": "Shinobi Addon",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/WQtrdfhuC0l769HAZWlOcy_MZZ0dHjElKHlQvTaJGQ6JGPWXHpa_7EVnjNIbMeF2eg",
+        "description": "Do you want to become a real Shinobi and add a large number of real ninja weapons? With this mod you can get weapons, abilities and even food from Naruto in Minecraft!  Kunai daggers and shurikens Kunai are throwing knives that are Naruto's favorite weapon. By installing the Shinobi mod for Minecraft Bedrock Edition, you will be able to craft various versions of throwing knives - simple, electric, exploding and others!",
+        "fileUrl": "https://www.dropbox.com/s/9ozklhpt0p0fnna/ShinobiAddon.mcaddon?dl=1",
+        "premium": "FALSE",
+        "price": null,
+        "tag": "anime"
+    },
+    {
+        "name": "Shinobi Chronicles",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/B2PbFyQ3EGKU4MAA0lrXWMq3jYeEswNu25vkZluLFK--Abxkkn4qOHd2sDmVIncXLg",
+        "description": "Do you want to become a real ninja and get the ultimate deadly weapon? With this mod, you can become one of the characters in the anime \"Naruto\" and use their weapons.",
+        "fileUrl": "https://www.dropbox.com/s/6hi2wbbr50udnsq/Shinobi_Chronicles.mcaddon?dl=1",
+        "premium": "FALSE",
+        "price": null,
+        "tag": "anime"
+    },
+    {
+        "name": "Small Pikachu",
+        "extension": ".mcworld",
+        "imgUrl": "https://lh3.googleusercontent.com/Cq-kRGjKKyJvGlNULujsTPNeGu3b4IuBKYRvt5nXX0JQlBxev6uPK3lotm1OnCsgy_E",
+        "description": "Don't know how to make your world even better? Do you want something simple and interesting? Often, pixel art of famous characters is suitable for this role. We have many such options for Minecraft Pocket Edition. Introducing neat pixel art Pikachu from Pokemon. The building is very small, you can even fit in a house. Everything is done in a minimalist style. The character is especially recognizable from a distance.",
+        "fileUrl": "https://www.dropbox.com/s/faogmt0kjj3b6va/small-pikachu.mcworld?dl=1",
+        "premium": "FALSE",
+        "price": null,
+        "tag": "pokemon"
+    },
+    {
+        "name": "Catch your Squirtle",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/bLy-87l4neCdjky82rifbiGdqjflXN6--c8vJkyMEGYb5Wz2vj0Mitbx5su85f1WIAA",
+        "description": "Mod on the theme Squirtle. You are walking on one of the beaches of your survival and... A wild Squirtle appears! You want to tame it to see if it follows you during your adventure. With his tamed entity defending you during your survival and available in the beach biomes, your survival will make waves! This pack is a Bedrock exclusive content. It contains :<br><br>- A squirtle entity with :<br><br>-The possibility to meet him in the beach biome<br>-The possibility to tame him with sea grass or varech<br>-A bubble attack that will defend you against monsters<br>-A CD with the pokemon music<br>-6 sounds Squirtle integrate on it<br> <br> <b> To install this data pack, you must have the Minecraft Bedrock version.</b><br><br>",
+        "fileUrl": "https://www.dropbox.com/scl/fi/afu15sv5084yniue32kh9/Catch-your-Squirtle.mcaddon?rlkey=z26tf4hr7vwkswr9vp5xsbhdt&dl=1",
+        "premium": "FALSE",
+        "price": null,
+        "tag": "pokemon"
+    },
+    {
+        "name": "The Nine Titans",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/VokzumDG5P14Oj8znAyamBkbq4REY3kXHVBaitnHQyINstPB-LTMlQmZBPhtmqfWw3Q",
+        "description": "\"Attack on Titan\" is perhaps the most popular anime of recent years, which is gaining more and more fans because of its unique plot. It's hard to understand how the titans managed to charm the whole world, although they look pretty creepy. However, the titans will appear in Minecraft with the help of The Nine Titans mod. The author added a lot of titans, with each of which you have to meet and try your hand.",
+        "fileUrl": "https://www.dropbox.com/s/fot6aoxj74zmmh0/9%20Titans.mcaddon?dl=1",
+        "premium": "TRUE",
+        "price": null,
+        "tag": "anime"
+    },
+    {
+        "name": "Waifus",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/dGFBln2PLdho0U6fsffHlZPouNK-y9QBjMOYOET-_n5QmU5YUB8oa0oCTP5AN9P0vlM",
+        "description": "Anime characters interest everyone and everyone. And if these are also female characters, then attention increases several times. Therefore, the authors of add-ons often use this technique and create assemblies with female anime characters. One of these was the Waifus 2 mod, which introduces 12 anime girls to Minecraft. To tame any mob, a rose is used.",
+        "fileUrl": "https://www.dropbox.com/s/u4s75qgitvxx43r/Waifus.mcaddon?dl=1",
+        "premium": "FALSE",
+        "price": null,
+        "tag": "anime"
     }
 ]
