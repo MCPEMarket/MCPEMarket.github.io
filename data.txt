@@ -1,42 +1,42 @@
-"AllMods": [
+[
     {
-        "Name": "Amazing Digital Circus",
-        "Extension": ".mcaddon",
-        "ImgUrl": "https://lh3.googleusercontent.com/GP47ULUtJs9XQdk2IrnzbqpRFJ1r1e3ycHRSkW8fhUMcnoNx8UgElGFYhTjIK07Eocg",
-        "Description": "The Amazing Digital Circus is a horror web series. The author of the mod The Amazing Digital Circus decided to transfer this cartoon to the vastness of Minecraft. Many monsters and creepy creatures from the cartoon will await users in the cubic world. The creator tried to introduce unique artificial intelligence and make the behavior of mobs revolutionary. <br><br><b>Mobs</b><br><br>Remember<br>Jax<br>Ragata<br>Gangl<br>Kinger<br>Cain<br>Zubl<br>Kaufmo<br><br>",
-        "FileUrl": "https://www.dropbox.com/scl/fi/hhq2sinknhzxt41zhlt83/The-Amazing-Digital-Circus.mcaddon?rlkey=oy02u01pytqqewq64trptsvnv&dl=1",
-        "Premium": "TRUE",
-        "Price": "0",
-        "Tag": "anime"
+        "name": "Amazing Digital Circus",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/GP47ULUtJs9XQdk2IrnzbqpRFJ1r1e3ycHRSkW8fhUMcnoNx8UgElGFYhTjIK07Eocg",
+        "description": "The Amazing Digital Circus is a horror web series. The author of the mod The Amazing Digital Circus decided to transfer this cartoon to the vastness of Minecraft. Many monsters and creepy creatures from the cartoon will await users in the cubic world. The creator tried to introduce unique artificial intelligence and make the behavior of mobs revolutionary. <br><br><b>Mobs</b><br><br>Remember<br>Jax<br>Ragata<br>Gangl<br>Kinger<br>Cain<br>Zubl<br>Kaufmo<br><br>",
+        "fileUrl": "https://www.dropbox.com/scl/fi/hhq2sinknhzxt41zhlt83/The-Amazing-Digital-Circus.mcaddon?rlkey=oy02u01pytqqewq64trptsvnv&dl=1",
+        "premium": "TRUE",
+        "price": "0",
+        "tag": "anime"
     },
     {
-        "Name": "Anime Characters",
-        "Extension": ".mcaddon",
-        "ImgUrl": "https://lh3.googleusercontent.com/PkVhy1NqWP2qExLyn8yUTSEplmkFnSp9eTRP-uNLjZJYmbKOLQPtxyCDFbYHsqnhHA",
-        "Description": "If you love manga, anime and everything connected with them, then you have come to the right place. There are too few anime in Minecraft, so we present a unique development of Japanese scientists: the Anime Characters (Waifus & Husbands) mod. It adds characters from anime and manga. Each of them has not only its own model, but also characteristics and abilities. A total of 130 characters are available.",
-        "FileUrl": "https://www.dropbox.com/s/b4uq3ln33kewlee/Anime%20Characters.mcaddon?dl=1",
-        "Premium": "FALSE",
-        "Price": "0",
-        "Tag": "anime"
+        "name": "Anime Characters",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/PkVhy1NqWP2qExLyn8yUTSEplmkFnSp9eTRP-uNLjZJYmbKOLQPtxyCDFbYHsqnhHA",
+        "description": "If you love manga, anime and everything connected with them, then you have come to the right place. There are too few anime in Minecraft, so we present a unique development of Japanese scientists: the Anime Characters (Waifus & Husbands) mod. It adds characters from anime and manga. Each of them has not only its own model, but also characteristics and abilities. A total of 130 characters are available.",
+        "fileUrl": "https://www.dropbox.com/s/b4uq3ln33kewlee/Anime%20Characters.mcaddon?dl=1",
+        "premium": "FALSE",
+        "price": "0",
+        "tag": "anime"
     },
     {
-        "Name": "Anime Skin Pack",
-        "Extension": ".mcpack",
-        "ImgUrl": "https://lh3.googleusercontent.com/b3qmOhSfTiWsfYo5E9mGS3idPo8A3SSkmsnh438vF74ojHcjEZxG5QhxG2MvA5x-jJ0",
-        "Description": "Anime&Manga is a skin pack in which you can find lots of anime and manga characters from various popular series.<br>There are a total of 14 series.<br> Skin Count: 430+ <br><br><b>Series available:</b> <br>Attack on Titan <br>Berserk<br>Death Note<br>Fullmetal Alchemist<br>One Piece<br>Dragon Ball<br>One Punch Man<br>Tokyo Ghoul<br>Chainsaw Man<br>Sword Art Online<br>My Hero Academia<br>Demon Slayer<br>Hunter x Hunter<br>Steins;Gate<br>and more to come!<br> <br>",
-        "FileUrl": "https://www.dropbox.com/s/va6yldotbetyz5i/AniManga%20Skin%20Pack.mcpack?dl=1",
-        "Premium": "TRUE",
-        "Price": "0",
-        "Tag": "anime"
+        "name": "Anime Skin Pack",
+        "extension": ".mcpack",
+        "imgUrl": "https://lh3.googleusercontent.com/b3qmOhSfTiWsfYo5E9mGS3idPo8A3SSkmsnh438vF74ojHcjEZxG5QhxG2MvA5x-jJ0",
+        "description": "Anime&Manga is a skin pack in which you can find lots of anime and manga characters from various popular series.<br>There are a total of 14 series.<br> Skin Count: 430+ <br><br><b>Series available:</b> <br>Attack on Titan <br>Berserk<br>Death Note<br>Fullmetal Alchemist<br>One Piece<br>Dragon Ball<br>One Punch Man<br>Tokyo Ghoul<br>Chainsaw Man<br>Sword Art Online<br>My Hero Academia<br>Demon Slayer<br>Hunter x Hunter<br>Steins;Gate<br>and more to come!<br> <br>",
+        "fileUrl": "https://www.dropbox.com/s/va6yldotbetyz5i/AniManga%20Skin%20Pack.mcpack?dl=1",
+        "premium": "TRUE",
+        "price": "0",
+        "tag": "anime"
     },
     {
-        "Name": "Attack on Minecraft",
-        "Extension": ".mcaddon",
-        "ImgUrl": "https://lh3.googleusercontent.com/ENL1iUDOQAXnSX745scze4i0lD-tsGMtKLNmSXdovqmQ7U-3oo1N4KvIM_fZLVyhiLwz",
-        "Description": "Almost every universe in anime has its own peculiarity. Usually such elements are well remembered. For example, the anime Attack on Titan has cool technologies that help players move through the air and kill huge monsters.  Many would like to ride these in real life. Therefore, the Attack On Titan mod was created. The addon will add a special flight device to the game. And three types of weapons. There is a firearm and an explosive option.",
-        "FileUrl": "https://www.dropbox.com/s/3q9o5mlhav47u2d/attack-on-minecraft.mcaddon?dl=1",
-        "Premium": "FALSE",
-        "Price": "0",
-        "Tag": "anime"
+        "name": "Attack on Minecraft",
+        "extension": ".mcaddon",
+        "imgUrl": "https://lh3.googleusercontent.com/ENL1iUDOQAXnSX745scze4i0lD-tsGMtKLNmSXdovqmQ7U-3oo1N4KvIM_fZLVyhiLwz",
+        "description": "Almost every universe in anime has its own peculiarity. Usually such elements are well remembered. For example, the anime Attack on Titan has cool technologies that help players move through the air and kill huge monsters.  Many would like to ride these in real life. Therefore, the Attack On Titan mod was created. The addon will add a special flight device to the game. And three types of weapons. There is a firearm and an explosive option.",
+        "fileUrl": "https://www.dropbox.com/s/3q9o5mlhav47u2d/attack-on-minecraft.mcaddon?dl=1",
+        "premium": "FALSE",
+        "price": "0",
+        "tag": "anime"
     }
 ]
